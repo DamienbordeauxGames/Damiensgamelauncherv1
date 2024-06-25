@@ -1,0 +1,5 @@
+ <checkversion>=Damiensgamelauncherversion.DAMIENENGINEFILE
+ <startfail>=startfailfilesmaybemissing
+ <checkforfiles>=checkformissingfiles
+ <downloadfilesfromgithub>=ok
+ <thisfilemissing>=?

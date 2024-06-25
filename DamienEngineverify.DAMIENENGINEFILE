@@ -1,0 +1,4 @@
+ <filestartswhenappstarts>=yes
+ <DamienEngineisrunning>=yes
+ <DamienGameLauncherisrunning>=yes
+ <startfailhandler>=DamienEngineErrorHandler.DAMIENENGINEFILE
